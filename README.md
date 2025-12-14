@@ -3,7 +3,7 @@
 ![Kailash Chand](https://media.licdn.com/dms/image/v2/D4E03AQEspiWc1mRX8g/profile-displayphoto-scale_400_400/B4EZfqauGHGwAg-/0/1751984564726?e=1756339200&v=beta&t=3mgBzxfoS1e5cd9opT3v8AhkuwZT2wZ8bYZVAmf7MNw)
 
 <h1 align="center">Hi 👋, I'm kailash chand</h1>
-<h3 align="center">A PASSIONATE ON LEARNING NEW THING!</h3>
+<h3 align="center">Always excited to learn new things!</h3>
 <p align="center">
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -15,9 +15,10 @@
 
 - 📫 How to reach me **chandkailash1222@gmail.com**
 
-- 📄 Know about my experiences   I AM ON BEGINNING PHASE TRYING TO LEARN SOMETHING NEW EVERYDAY!!]
+- 📄 Know about my experiences  I am at the early stage of my learning journey, continuously exploring and improving my skills every day.
 
-- ⚡ Fun fact **I THINK I BECOME SO MUCH SERIOUS RELATED TO MY CARRIER!!**
+- ⚡ Fun fact **I take my career seriously, but my code still jokes with me sometimes 😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
