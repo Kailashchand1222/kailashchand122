@@ -1,6 +1,4 @@
-![Kailash Chand](https://media.licdn.com/dms/image/v2/D5603AQG6fSytj5yjKg/profile-displayphoto-scale_400_400/B56ZhCOI2PHQAg-/0/1753457670054?e=1756339200&v=beta&t=7emk-qKTPnwW9FPh6eMQNwXz2VvAvOO86w9NGOo72KY)
 
-![Kailash Chand](https://media.licdn.com/dms/image/v2/D4E03AQEspiWc1mRX8g/profile-displayphoto-scale_400_400/B4EZfqauGHGwAg-/0/1751984564726?e=1756339200&v=beta&t=3mgBzxfoS1e5cd9opT3v8AhkuwZT2wZ8bYZVAmf7MNw)
 
 <h1 align="center">Hi 👋, I'm kailash chand</h1>
 <h3 align="center">Always excited to learn new things!</h3>
@@ -26,7 +24,6 @@
 </p>
 <h1 align="left">Hey 👋 What's up everyone?</h1>
 
-<p align="left">My name is <strong>Kailash Chand</strong> </p>
 
 <h2 align="left">About me</h2>
 
